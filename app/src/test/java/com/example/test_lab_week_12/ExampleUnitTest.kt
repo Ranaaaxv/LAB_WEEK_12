@@ -1,4 +1,4 @@
-package vanessa.umn.lab_week_12
+package com.example.test_lab_week_12
 
 import org.junit.Test
 
